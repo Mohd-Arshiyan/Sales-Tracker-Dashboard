@@ -29,4 +29,4 @@ Key business questions addressed:
 - City wise performance using filters
 - Customer segmentation and product category analysis
   ## 📷 Dashboard Preview
-  
+  https://github.com/Mohd-Arshiyan/Sales-Tracker-Dashboard/blob/main/Dashboard%20Overview.png
