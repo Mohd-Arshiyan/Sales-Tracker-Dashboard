@@ -2,7 +2,7 @@
 # Sales-Tracker-Dashboard
 This repository contains a Power BI dashboard project that analyzes and visualizes e-commerce sales data to track performance, and support business decision-making.
 ## 🚀 Project Overview
-This Power BI dashboard project aims to provide a comprehensive view of e-commerce sales performance. The dataset was sourced from **E commerce vendor** and includes order details, customer information, product categories, and regional data.
+This Power BI dashboard project aims to provide a comprehensive view of e-commerce sales performance. The dataset was sourced from Kaggle and includes order details, customer information, product categories, and regional data.
 Key business questions addressed:
 - What is the total revenue, profit, and order volume?
 - Who are the topmost customers?
